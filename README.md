@@ -7,6 +7,11 @@ This repo contains implementation of search and optimization algorithms in Pytho
 
 <br/>A merged file containing all algorithms is added to each folder after the final task of the group.
 ## Features of work
+Each task completing consist of algorithms' code and GUI part. 
+<br/>The whole work is completed on Macbook Air M1 2020 (Apple Silicon 8/8/16) in Anaconda environment:
+>wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O ~/miniconda.sh
+>bash ~/miniconda.sh -b -p $HOME/miniconda
+<br/>
 
 ## Contact me
 discord: zer0deck#1111

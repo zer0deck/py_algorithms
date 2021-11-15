@@ -14,7 +14,7 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O ~
 bash ~/miniconda.sh -b -p $HOME/miniconda
 ```
 <br/>Due to new ARM Chip specific most of the default mathematical Python libraries are not available in native Python. Therefore, in my situation (for Windows ARM similarly), I recommend using multi-platform third-party solutions like Homebrew or Anaconda.
-<br/>**Full list of used libraries:**
+### Full list of used libraries:
 1. NumPy
 ```
 pip install numpy
@@ -39,9 +39,9 @@ pip install networkx
 conda install networkx
 ```
 5. Tkinter
-already integrated in Python 3.9.X package
+<br/>already integrated in Python 3.9.X package
 6. TimeIT
-already integrated in Python 3.9.X package
+<br/>already integrated in Python 3.9.X package
 
 ## Contact me
 discord: zer0deck#1111

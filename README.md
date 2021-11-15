@@ -13,7 +13,35 @@ Each task completing consist of algorithms' code and GUI part.
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O ~/miniconda.sh
 bash ~/miniconda.sh -b -p $HOME/miniconda
 ```
-<br/>
+<br/>Due to new ARM Chip specific most of the default mathematical Python libraries are not available in native Python. Therefore, in my situation (for Windows ARM similarly), I recommend using multi-platform third-party solutions like Homebrew or Anaconda.
+<br/>**Full list of used libraries:**
+1. NumPy
+```
+pip install numpy
+```
+or
+```
+conda install numpy
+```
+2. SciPy (optimize and minimize modules)
+```
+pip install scipy
+conda install scipy
+```
+3. MatPlotLib
+```
+pip install 'matplotlib>=3.4.2,<3.4.4' --force-install
+conda install matplotlib --version==latest
+```
+4. NetworkX
+```
+pip install networkx
+conda install networkx
+```
+5. Tkinter
+already integrated in Python 3.9.X package
+6. TimeIT
+already integrated in Python 3.9.X package
 
 ## Contact me
 discord: zer0deck#1111

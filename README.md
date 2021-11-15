@@ -10,5 +10,5 @@ This repo contains implementation of search and optimization algorithms in Pytho
 
 ## Contact me
 discord: zer0deck#1111
-telegram: [zer0deck](t.me/zer0deck)
-e-mails: <zer0deck@icloud.com>, <337390@niuitmo.ru>
+<br/>telegram: [zer0deck](t.me/zer0deck)
+<br/>e-mails: <zer0deck@icloud.com>, <337390@niuitmo.ru>

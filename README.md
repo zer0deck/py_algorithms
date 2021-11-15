@@ -7,3 +7,8 @@ This repo contains implementation of search and optimization algorithms in Pytho
 
 <br/>A merged file containing all algorithms is added to each folder after the final task of the group.
 ## Features of work
+
+## Contact me
+discord: zer0deck#1111
+telegram: <t.me/zer0deck>
+e-mails: <zer0deck@icloud.com>, <337390@niuitmo.ru>

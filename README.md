@@ -4,6 +4,8 @@ This repo contains implementation of search and optimization algorithms in Pytho
 1. Ex1 - located in [Experimental time complexity analysis](https://github.com/zer0deck/py_algorithms/tree/main/Experimental%20time%20complexity%20analysis) folder
 2. Ex2-Ex4 - located in [Algorithms for unconstrained nonlinear optimization](https://github.com/zer0deck/py_algorithms/tree/main/Algorithms%20for%20unconstrained%20nonlinear%20optimization) folder
 3. Ex5-Ex6 - located in [Algorithms in graphs](https://github.com/zer0deck/py_algorithms/tree/main/Algorithms%20on%20graphs) folder
+4. Ex7 - located in [Gephi](https://github.com/zer0deck/py_algorithms/tree/main/Gephi) folder
+5. Ex8 - located in [Advanced algorithms](https://github.com/zer0deck/py_algorithms/tree/main/Advanced%20algorithms) folder
 
 <br/>A merged file containing all algorithms is added to each folder after the final task of the group.
 ## Features of work
